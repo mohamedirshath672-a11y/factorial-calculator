@@ -38,7 +38,7 @@ A simple and user-friendly **Factorial Calculator** built using **Python** and *
 3. Run:
 
 ```bash
-python factor.py
+python Factorial_Calculator.py
 ```
 
 
