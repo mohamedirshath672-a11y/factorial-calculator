@@ -39,7 +39,7 @@ A simple and user-friendly **Factorial Calculator** built using **Python** and *
 
 ```bash
 python factor.py
-
+```
 
 
 
